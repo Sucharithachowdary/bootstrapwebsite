@@ -212,7 +212,12 @@ Contact Us:
 ## OUTPUT:
 
 ### Home Page:
+![Output](https://github.com/Sucharithachowdary/bootstrapwebsite/blob/main/s1.jpg?raw=true)
+### About us :
+![Output](https://github.com/Sucharithachowdary/bootstrapwebsite/blob/main/s2.jpg?raw=true)
+### Contact Us :
+![Output](https://github.com/Sucharithachowdary/bootstrapwebsite/blob/main/s3.jpg?raw=true)
 
 
 ## Result:
-
+A website using bootstrap framework has been created.
